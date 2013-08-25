@@ -1,0 +1,7 @@
+{
+    "docs": {
+        "properties": {
+            "body": { "type": "string" }
+        }
+    }
+}
